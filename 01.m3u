@@ -1468,7 +1468,7 @@ https://live.euromediacenter.com/saglikchannel/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VWRBg1M/trklinik.png",KLİNİKLER TV
 http://mn-nl.mncdn.com/turkiyeklinikleri/smil:turkiyeklinikleri/chunklist_b3128000.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qRsfyb2/tvmor.png",MOR TV
-https://live.euromediacenter.com/tvmor/index.m3u87
+https://live.euromediacenter.com/tvmor/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PZW37ch0/onstv.jpg",ONS TV
 https://cdn-onstv.yayin.com.tr/onstv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1Z22dCY/teve2.png",TEVE 2
@@ -1562,7 +1562,13 @@ http://tjktv.ercdn.net/tjktv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0Yt6jbg/tjk.png",TJK TV [geo-blocked]
 http://tjktv-live.tjk.org/tjktv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/J5QjKLt/tay22.png",TAY TV
+http://live.duhnet.tv/S2/HLS_LIVE/taytvnp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/J5QjKLt/tay22.png",TAY TV
 http://duhnet.hipodrom.com/S2/HLS_LIVE/mislitaynp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://r.resimlink.com/1dOGS5D_iA4Z.png",YARIŞTAYIZ TV
+https://raw.githubusercontent.com/yaskar661-lgtm/termux-yt-canli/refs/heads/main/streams/yaristayiz_tv.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/f-jhhxUz7qpLzdrw8IOW4vHgJJcB2UzPRgPzlCV2m936A1MmzmDdhBASltfKu0RnqRd4PO08IQ=s160-c-k-c0x00ffffff-no-rj",YARIŞTAYIZ TV YURT DIŞI
+https://raw.githubusercontent.com/yaskar661-lgtm/termux-yt-canli/refs/heads/main/streams/yaristayiz_tv_yurt_disi.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8g20RBH/ebatek.png",TRT EBA TV
 https://tv-e-okul01.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/R2Zgy7F/minikago.png",MİNİKA GO (sometimes)
