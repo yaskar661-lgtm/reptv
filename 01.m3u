@@ -3163,6 +3163,8 @@ https://raw.githubusercontent.com/fraudiay79/strm/refs/heads/main/platforms/link
 https://raw.githubusercontent.com/fraudiay79/strm/refs/heads/main/platforms/links/adentv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mCVgF7j7/hadra.png",HADRHRAMAUT
 https://raw.githubusercontent.com/fraudiay79/strm/refs/heads/main/platforms/links/hadhramaut.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCF4QkiMaz84GXfvd-HePbwO6-fJUcg0bdWZSv5LBBVi8NFrxXYDgUTnM&s=10",ALRAI TV
+https://alrai-tv-m3u8-index.onrender.com/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Z1cL88jh/Altaghier.png",AL TAGHIER
 https://jmc-live.ercdn.net/altaghier/altaghier.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/740Znb4/ittihad.png",ETIHAD
