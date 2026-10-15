@@ -1364,7 +1364,7 @@ https://beyaztv-live.daioncdn.net/beyaztv/beyaztv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0tc3PYz/beyaz22b.png",BEYAZ TV
 https://beyaztv.daioncdn.net/beyaztv/beyaztv.m3u8?app=fcd5c66b-da9d-44ba-a410-4f34805c397d
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Kanal_1_logosu.png?utm_source=tr.wikipedia.org&utm_campaign=index&utm_content=original",KANAL 1
-https://cdn.filbox.com.tr/api/stream/r?u=aHR0cDovL2V4Y2hhbmdlLmNkbnJkbi5jb206OTA5MC9UUi9rYW5hbDFoZC10ci9pbmRleC5tM3U4P3Rva2VuPWZpbGJveF9venRudnFtZks4M0tT&e=1791032400000&s=eRuM-0lAkhcWFyclXzryTN8AxUPlYIFI_Nba0mJtj88
+http://176.65.153.26:6004/play/a024/index.m3u8
 #EXTINF:-1 group-title="8. |TR|🇹🇷 ULUSAL GENEL 📺📡",---- Y E D E K L E R ----
 https://empty
 #EXTINF:-1 tvg-logo="https://i.ibb.co/d6c87Km/trt122.png",TRT 1 (backup)
@@ -1431,7 +1431,8 @@ https://trn03.tulix.tv/tv8-hd-tv/index.m3u8?token=e0668d237d2c8a5007dd3ac645e9d3
 http://live.duhnet.tv/S2/HLS_LIVE/kanalddainp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/s9mVqWH/kanald.png",KANAL D (backup dup)
 https://live.duhnet.tv/S2/HLS_LIVE/kanalddainp/playlist.m3u8
-
+#EXTINF:-1 tvg-logo="https://www.turksat.com.tr/logo.svg",TÜRKSAT TANITIM
+http://176.65.153.26:6004/play/a02s/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/N1h8m96/trtbelgesel.png" group-title="9. |TR|🇹🇷 BELGESEL & YAŞAM ??️🎋",TRT BELGESEL
 https://tv-trtbelgesel-dai.medya.trt.com.tr/master.m3u8
