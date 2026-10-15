@@ -1519,8 +1519,10 @@ https://raw.githubusercontent.com/yaskar661-lgtm/termux-yt-canli/refs/heads/main
 https://saran-live.ercdn.net/disneyjunior/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/QFvZPd9/spacetoon.png",SPACE TOON TR
 https://live-tr-next.spacetoongo.com/ST_TR_NEXT/hls/h7qefeiwfbjn1.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/Nick_Jr._logo_2023_%28outline%29.svg?utm_source=tr.wikipedia.org&utm_campaign=index&utm_content=original",NICK JR TR
+http://463758a0.ucomist.net/iptv/DEZWG4KWUAEXFK/6847/index.m3u8
 #EXTINF:-1 tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Nickelodeon_2023_logo_%28outline%29.svg/500px-Nickelodeon_2023_logo_%28outline%29.svg.png?utm_source=tr.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",NICKELODEON TR
-http://463758a0.ucomist.net/iptv/ZEEDV4QP6HVZU3YXP49H3ECB/6847/index.m3u8
+http://463758a0.ucomist.net/iptv/DEZWG4KWUAEXFK/6848/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/F0Tsz1v/htsportr.png",HT SPOR
 https://ciner-live.ercdn.net/htspor/htspor.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/F0Tsz1v/htsportr.png",HT SPOR
@@ -1664,7 +1666,7 @@ https://flask-stream-shturk-cinerlive.onrender.com/hls_stream/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WvhGGP0/showturk1.png",SHOW TÜRK
 http://193.123.61.120:3000/kanal/showtv_1
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WvhGGP0/showturk1.png",SHOW TÜRK
-https://raw.githubusercontent.com/bnyusuf67-crypto/streams/refs/heads/main/streams/shturk.m3u8
+https://ciner.daioncdn.net/showturk/showturk.m3u8?app=3a516c79-a14a-4585-9204-9080fb8ecb61
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WvhGGP0/showturk1.png",SHOW TÜRK
 https://raw.githubusercontent.com/pinkisso/mored/refs/heads/main/res/26-2/shturk.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Lg90xsB/eurostar22.png",EURO STAR
@@ -1728,7 +1730,7 @@ https://mediaserver.abnvideos.com/streams/turkish__discipleship.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JHH0xcX/tgrtbel22.png",TGRT BELGESEL
 https://raw.githubusercontent.com/yaskar661-lgtm/termux-yt-canli/refs/heads/main/streams/tgrt_belgesel.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JHH0xcX/tgrtbel22.png",TGRT BELGESEL (backup)
-http://463758a0.ucomist.net/iptv/ZEEDV4QP6HVZU3YXP49H3ECB/6860/index.m3u8
+http://463758a0.ucomist.net/iptv/DEZWG4KWUAEXFK/6860/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bj1H8LCm/vavtv.png",VAV TV
 https://raw.githubusercontent.com/yaskar661-lgtm/termux-yt-canli/refs/heads/main/streams/vav_tv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bj1H8LCm/vavtv.png",VAV TV (backup)
