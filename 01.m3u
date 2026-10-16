@@ -1567,6 +1567,8 @@ https://tv-trtspor2.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ky3qVPc/trtspory2.png",TRT SPOR2 YILDIZ [geo-blocked]
 https://trt.daioncdn.net/trtspor-yildiz/master.m3u8?&app=2c6690bb-4021-4292-8ddc-c93a3cf04a3a
 #EXTINF:-1 tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/TRT_3_Spor_logo_%282022%29.svg/250px-TRT_3_Spor_logo_%282022%29.svg.png?utm_source=tr.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",TRT 3 SPOR
+http://176.65.153.12:6002/play/a065/index.m3u8
+#EXTINF:-1 tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/TRT_3_Spor_logo_%282022%29.svg/250px-TRT_3_Spor_logo_%282022%29.svg.png?utm_source=tr.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",TRT 3 SPOR
 http://46.32.176.50/trt3spor/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0Yt6jbg/tjk.png",TJK TV [geo-blocked]
 http://tjktv.ercdn.net/tjktv.m3u8
