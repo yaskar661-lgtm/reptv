@@ -1522,8 +1522,12 @@ https://saran-live.ercdn.net/disneyjunior/index.m3u8
 https://live-tr-next.spacetoongo.com/ST_TR_NEXT/hls/h7qefeiwfbjn1.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/Nick_Jr._logo_2023_%28outline%29.svg?utm_source=tr.wikipedia.org&utm_campaign=index&utm_content=original",NICK JR TR
 http://463758a0.ucomist.net/iptv/DEZWG4KWUAEXFK/6847/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/Nick_Jr._logo_2023_%28outline%29.svg?utm_source=tr.wikipedia.org&utm_campaign=index&utm_content=original",NICK JR TR (backup)
+http://463758a0.ucomist.net/iptv/ZEEDV4QP6HVZU3YXP49H3ECB/6847/index.m3u8
 #EXTINF:-1 tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Nickelodeon_2023_logo_%28outline%29.svg/500px-Nickelodeon_2023_logo_%28outline%29.svg.png?utm_source=tr.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",NICKELODEON TR
 http://463758a0.ucomist.net/iptv/DEZWG4KWUAEXFK/6848/index.m3u8
+#EXTINF:-1 tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Nickelodeon_2023_logo_%28outline%29.svg/500px-Nickelodeon_2023_logo_%28outline%29.svg.png?utm_source=tr.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",NICKELODEON TR (backup)
+http://463758a0.ucomist.net/iptv/ZEEDV4QP6HVZU3YXP49H3ECB/6848/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/F0Tsz1v/htsportr.png",HT SPOR
 https://ciner-live.ercdn.net/htspor/htspor.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/F0Tsz1v/htsportr.png",HT SPOR
@@ -1655,6 +1659,8 @@ https://tv-trtturk.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/cDxKJy1/k7avr1.png",KANAL 7 AVRUPA
 https://livetv.radyotvonline.net/kanal7live/kanal7avr/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PtH4wGr/atvavr.png",ATV AVRUPA
+http://176.65.153.26:6004/play/a02y/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PtH4wGr/atvavr.png",ATV AVRUPA
 http://superiptv21.com/live/KTBJ8v2H/TeCypMqE/30a9c801-5672-4f9b-a615-c63f00043e9f.m3u?output=m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PtH4wGr/atvavr.png",ATV AVRUPA
 https://trn03.tulix.tv/gt-atv-avrupa-tv/index.m3u8?token=e0668d237d2c8a5007dd3ac645e9d3ce
@@ -1726,6 +1732,8 @@ https://mediaserver.abnvideos.com/streams/turkish__discipleship.m3u8
 https://raw.githubusercontent.com/yaskar661-lgtm/termux-yt-canli/refs/heads/main/streams/tgrt_belgesel.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JHH0xcX/tgrtbel22.png",TGRT BELGESEL (backup)
 http://463758a0.ucomist.net/iptv/DEZWG4KWUAEXFK/6860/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JHH0xcX/tgrtbel22.png",TGRT BELGESEL (backup)
+http://463758a0.ucomist.net/iptv/ZEEDV4QP6HVZU3YXP49H3ECB/6860/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bj1H8LCm/vavtv.png",VAV TV
 https://raw.githubusercontent.com/yaskar661-lgtm/termux-yt-canli/refs/heads/main/streams/vav_tv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bj1H8LCm/vavtv.png",VAV TV (backup)
