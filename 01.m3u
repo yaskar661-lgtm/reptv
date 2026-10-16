@@ -1674,6 +1674,8 @@ https://get-atvavrupa-streams.onrender.com/hls_stream/master.m3u8
 http://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WvhGGP0/showturk1.png",SHOW TÜRK
 https://ciner.daioncdn.net/showturk/showturk.m3u8?app=3a516c79-a14a-4585-9204-9080fb8ecb61
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WvhGGP0/showturk1.png",SHOW TÜRK
+http://176.65.153.26:6004/play/a01z/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Lg90xsB/eurostar22.png",EURO STAR
 https://raw.githubusercontent.com/pinkisso/mored/refs/heads/main/res/26-2/estar.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Lg90xsB/eurostar22.png",EURO STAR
@@ -1693,7 +1695,7 @@ https://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tDB51ww/tarim.png",TARIM TV
 http://umperisn.mywire.org/index.php?id=594648&token=DeaTHLesS
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tDB51ww/tarim.png",TARIM TV (backup)
-https://tvkur-static-m3u8-link.onrender.com/master.m3u8
+http://176.65.153.26:6002/play/a02b/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1Ty8Z3X/bizimev.png",BİZİM EV TV
 https://raw.githubusercontent.com/yaskar661-lgtm/termux-yt-canli/refs/heads/main/streams/bizimev_tv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VWH0pWK/cem1.png",CEM TV
