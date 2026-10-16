@@ -1188,6 +1188,8 @@ https://flashhaber-live.ercdn.net/flashhaber/flashhaber.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4Mhmggc/tele1.png",TELE 1
 https://tele1-live.ercdn.net/tele1/tele1.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jZShqBM/Krt24v2.png",KRT
+http://176.65.153.12:6004/play/a021/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jZShqBM/Krt24v2.png",KRT
 https://trn03.tulix.tv/gt-krt--tv/index.m3u8?token=e0668d237d2c8a5007dd3ac645e9d3ce
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jZShqBM/Krt24v2.png",KRT
 https://raw.githubusercontent.com/pinkisso/mored/refs/heads/main/res/ytbe/krttv.m3u8
@@ -1304,7 +1306,7 @@ http://193.123.61.120:3000/kanal/Sozcutelevizyonu
 #EXTINF:-1 tvg-logo="https://i.ibb.co/B40rjP3/szc1.png",SÖZCÜ WEB (backup)
 https://raw.githubusercontent.com/pinkisso/mored/refs/heads/main/res/ytbe/szcytbe.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/B40rjP3/szc1.png",SÖZCÜ WEB (backup)
-https://cdn.filbox.com.tr/api/stream/r?u=aHR0cDovL2V4Y2hhbmdlLmNkbnJkbi5jb206OTA5MC9UUi9zemNoZC10ci9pbmRleC5tM3U4P3Rva2VuPWZpbGJveF9venRudnFtZks4M0tT&e=1790791200000&s=Teq95wqO0SLXI8FMc6R0RQK2gwNOyFZQd0hf0GKO5bw
+http://176.65.153.12:6001/play/a04u/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/B40rjP3/szc1.png",SÖZCÜ WEB (onlineup)
 https://yt.tecostream.xyz/live/sozcutelevizyonu?m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/B40rjP3/szc1.png",SÖZCÜ WEB (onlineup)
