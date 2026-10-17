@@ -1672,10 +1672,10 @@ https://livetv.radyotvonline.net/kanal7live/kanal7avr/playlist.m3u8
 http://176.65.153.26:6004/play/a02y/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PtH4wGr/atvavr.png",ATV AVRUPA
 http://superiptv21.com/live/KTBJ8v2H/TeCypMqE/30a9c801-5672-4f9b-a615-c63f00043e9f.m3u?output=m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/PtH4wGr/atvavr.png",ATV AVRUPA
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PtH4wGr/atvavr.png",ATV AVRUPA (backup)
 https://trn03.tulix.tv/gt-atv-avrupa-tv/index.m3u8?token=e0668d237d2c8a5007dd3ac645e9d3ce
-#EXTINF:-1 tvg-logo="https://i.ibb.co/PtH4wGr/atvavr.png",ATV AVRUPA
-https://get-atvavrupa-streams.onrender.com/hls_stream/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PtH4wGr/atvavr.png",ATV AVRUPA (backup)
+https://flaskapihls-atv-avrupa-hd-trkvzlive.onrender.com/hls_stream/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/THj0Jrg/eurod22.png",EURO D
 http://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WvhGGP0/showturk1.png",SHOW TÜRK
