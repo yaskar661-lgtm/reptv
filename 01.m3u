@@ -3281,11 +3281,11 @@ https://shd-gcp-live.edgenextcdn.net/live/bitmovin-saudi-tv/2ad66056b51fd8c1b624
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qNXgWyZ/sauditv.jpg" user-agent="VLC/3.0.18 LibVLC/3.0.18" referer="https://mbc.net/",SAUDIA TV KSA NOW
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-ksa-now/71ed3aa814c643306c0a8bc4fcc7d17f/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WcQV072/saudi1sbc.png",SAUDI SBC SA
-https://aloula-redirect.vercel.app/1/playlist.m3u8
+https://aloula-redirect-m3u8-links.onrender.com/live/1.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qNXgWyZ/sauditv.jpg",SAUDIA TV
-https://aloula-redirect.vercel.app/2/playlist.m3u8
+https://aloula-redirect-m3u8-links.onrender.com/live/2.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qNXgWyZ/sauditv.jpg",SAUDIA SPORT 1
-https://aloula-redirect.vercel.app/9/playlist.m3u8
+https://aloula-redirect-m3u8-links.onrender.com/live/9.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GJVSFNt/oman.png",OMAN 1
 https://partneta.cdn.mgmlcdn.com/omantv/smil:omantv.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GJVSFNt/oman.png",OMAN MUNASHER
