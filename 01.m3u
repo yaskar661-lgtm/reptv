@@ -1523,6 +1523,8 @@ http://176.65.153.12:6002/play/a05x/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8D0rhBvW/cnntwrk.jpg",CARTOON NETWORK (backup)
 http://463758a0.ucomist.net/iptv/DEZWG4KWUAEXFK/6846/index.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/_7UzbLRUPTG9PwZcMc042TV5TcOt8aPWBGqYfOQ56VlvJyGmog16BCv__H2ChJGcPaLr0fQ54rg=s160-c-k-c0x00ffffff-no-rj",DİYANET ÇOCUK
+http://45.88.139.156/yt1/diyanet.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/_7UzbLRUPTG9PwZcMc042TV5TcOt8aPWBGqYfOQ56VlvJyGmog16BCv__H2ChJGcPaLr0fQ54rg=s160-c-k-c0x00ffffff-no-rj",DİYANET ÇOCUK (backup)
 https://raw.githubusercontent.com/yaskar661-lgtm/termux-yt-canli/refs/heads/main/streams/diyanet_cocuk.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ccptk0sG/disnjr.png",DISNEY JR [TR Geo]
 https://saran-live.ercdn.net/disneyjunior/index.m3u8
