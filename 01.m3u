@@ -1216,7 +1216,7 @@ https://turkmedya-live.ercdn.net/tv24/tv24.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VP8pfs9/koza.jpg",KOZA
 https://raw.githubusercontent.com/pinkisso/mored/refs/heads/main/res/26-3/koza1.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/B4XX5Vx/akittv.png",AKİT TV
-http://umperisn.mywire.org/index.php?id=594236&token=DeaTHLesS
+http://exchange.cdnrdn.com:9090/TR-N/AKIT_TV_HD-tr/index.m3u8?token=filbox_oztnvqmfK83KS
 #EXTINF:-1 tvg-logo="https://i.ibb.co/B4XX5Vx/akittv.png",AKİT TV
 https://raw.githubusercontent.com/umitm0d/-mittube/refs/heads/main/Umittube/Akit.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/B4XX5Vx/akittv.png",AKİT TV
@@ -1319,6 +1319,8 @@ http://193.123.61.120:3000/kanal/Sozcutelevizyonu
 https://raw.githubusercontent.com/pinkisso/mored/refs/heads/main/res/ytbe/szcytbe.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/B40rjP3/szc1.png",SÖZCÜ WEB (backup)
 http://176.65.153.12:6001/play/a04u/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/B40rjP3/szc1.png",SÖZCÜ WEB (onlineup)
+http://exchange.cdnrdn.com:9090/TR/szchd-tr/index.m3u8?token=filbox_oztnvqmfK83KS
 #EXTINF:-1 tvg-logo="https://i.ibb.co/B40rjP3/szc1.png",SÖZCÜ WEB (onlineup)
 https://yt.tecostream.xyz/live/sozcutelevizyonu?m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/B40rjP3/szc1.png",SÖZCÜ WEB (onlineup)
@@ -1536,6 +1538,8 @@ https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago_cocuk/minikago_cocuk.m3
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8D0rhBvW/cnntwrk.jpg",CARTOON NETWORK
 http://176.65.153.12:6002/play/a05x/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8D0rhBvW/cnntwrk.jpg",CARTOON NETWORK (backup)
+http://exchange.cdnrdn.com:9090/TR/cartoonnetwork-tr/index.m3u8?token=filbox_oztnvqmfK83KS
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8D0rhBvW/cnntwrk.jpg",CARTOON NETWORK (backup)
 http://463758a0.ucomist.net/iptv/DEZWG4KWUAEXFK/6846/index.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/_7UzbLRUPTG9PwZcMc042TV5TcOt8aPWBGqYfOQ56VlvJyGmog16BCv__H2ChJGcPaLr0fQ54rg=s160-c-k-c0x00ffffff-no-rj",DİYANET ÇOCUK
