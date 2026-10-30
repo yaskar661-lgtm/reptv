@@ -1588,6 +1588,8 @@ https://fbtv.fenerbahce.org/fenerbahcetv.stream_720p/playlist.m3u8
 https://fbtv.fenerbahce.org/fenerbahcetv.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vk6S4xG/beinhab.png",BIS HABER
 https://raw.githubusercontent.com/pinkisso/mored/refs/heads/main/res/ytbe/beinsportshaber.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vk6S4xG/beinhab.png",BIS HABER (backup)
+http://exchange.cdnrdn.com:9090/TR-N/beIN_SPORTS_HABER_HD-tr/index.m3u8?token=filbox_oztnvqmfK83KS
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vk6S4xG/beinhab.png",BIS HABER (alt)
 https://yt.tecostream.xyz/live/beinsportshaber
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vk6S4xG/beinhab.png",BIS HABER (alt2)
