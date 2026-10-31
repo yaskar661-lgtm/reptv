@@ -2866,6 +2866,8 @@ https://algerian-tv-relay-2026.espiiem.chatgpt.site/api/echorouk/news/live.m3u8
 https://algerian-tv-relay-2026.espiiem.chatgpt.site/api/free/ennahar?m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/y5rY7zJ/heddaf.png",EL HEDDAF
 https://algerian-tv-relay-2026.espiiem.chatgpt.site/api/free/elheddaf?m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5mJKBQUI7_67_a_76TJFBoTqGtWJQZDcA6efrj4aPchqVLW2cDXWlrg&s",EL HAYAT
+https://guard.sekobes.workers.dev/?url=https://echorouk-to-m3u8.onrender.com/elhayattv/master.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/Gn19S8p/al24dz.png",AL24 NEWS
 https://cdn.live.easybroadcast.io/abr_corp/66_al24_u4yga6h/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zhc4X4cr/wataniadz.jpg",WATANIYA DZ
