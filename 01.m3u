@@ -1729,7 +1729,7 @@ https://trn03.tulix.tv/gt-tv8international/index.m3u8?token=e0668d237d2c8a5007dd
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ardifyxmotion/iptv-kanal/main/kanal/logos/tv8inttr.png",TV8 INT (backup)
 http://46.32.176.50/tv8int/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MCXCRcn/tgrteu1.png",TGRT EU
-http://umperisn.mywire.org/index.php?id=594199&token=DeaTHLesS
+http://exchange.cdnrdn.com:9090/TR/tgrthd-tr/index.m3u8?token=filbox_oztnvqmfK83KS
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1RnLJpf/agro.png",AGRO TV
 https://agro.fatihdemirsoy.com:8181/memfs/efe70a0b-aea8-48f3-bfda-72fff7f48a7b_output_0.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vHwMgx0/ciftci.png",ÇİFTÇİ TV
@@ -1783,13 +1783,13 @@ https://mediaserver.abnvideos.com/streams/turkish__discipleship.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JHH0xcX/tgrtbel22.png",TGRT BELGESEL
 https://raw.githubusercontent.com/yaskar661-lgtm/termux-yt-canli/refs/heads/main/streams/tgrt_belgesel.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JHH0xcX/tgrtbel22.png",TGRT BELGESEL (backup)
-http://463758a0.ucomist.net/iptv/DEZWG4KWUAEXFK/6860/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/JHH0xcX/tgrtbel22.png",TGRT BELGESEL (backup)
-http://463758a0.ucomist.net/iptv/ZEEDV4QP6HVZU3YXP49H3ECB/6860/index.m3u8
+http://exchange.cdnrdn.com:9090/TR/tgrtbelgesel-tr/index.m3u8?token=filbox_oztnvqmfK83KS
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bj1H8LCm/vavtv.png",VAV TV
 https://raw.githubusercontent.com/yaskar661-lgtm/termux-yt-canli/refs/heads/main/streams/vav_tv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bj1H8LCm/vavtv.png",VAV TV (backup)
 https://raw.githubusercontent.com/umitm0d/-mittube/refs/heads/main/Umittube/Vavtv.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bj1H8LCm/vavtv.png",VAV TV (backup)
+https://umittube-m3u8-redirect.onrender.com/stream/Vavtv?m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bj1H8LCm/vavtv.png",VAV TV AILE
 https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/aile-tv/playlist/0.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bj1H8LCm/vavtv.png",VAV TV ISLAM
