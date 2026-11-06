@@ -3313,17 +3313,17 @@ http://185.9.2.18/chid_139/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ngKnxmq/dubaione.png",DUBAI ONE
 http://mains.services/live/67564813/67564813/aa7ac53c-a585-4ced-9e27-3a28aac75a7b.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3h4XCtZ/kasqatar.png",AL KASS QATAR SHOOF
-https://alkass-to-m3u8.onrender.com/channel/shoof1?m3u8
+https://guard.sekobes.workers.dev/?url=https://alkass-to-m3u8.onrender.com/channel/shoof1?m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3h4XCtZ/kasqatar.png",AL KASS QATAR SHOOF 2
 https://liveeu-gcp.alkassdigital.net/shooflive2/main.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3h4XCtZ/kasqatar.png",AL KASS QATAR 1
-https://alkass-to-m3u8.onrender.com/channel/alkass-1?m3u8
+https://guard.sekobes.workers.dev/?url=https://alkass-to-m3u8.onrender.com/channel/alkass-1?m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3h4XCtZ/kasqatar.png",AL KASS QATAR 2
-https://alkass-to-m3u8.onrender.com/channel/alkass-2?m3u8
+https://guard.sekobes.workers.dev/?url=https://alkass-to-m3u8.onrender.com/channel/alkass-2?m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3h4XCtZ/kasqatar.png",AL KASS QATAR 3
-https://alkass-to-m3u8.onrender.com/channel/alkass-3?m3u8
+https://guard.sekobes.workers.dev/?url=https://alkass-to-m3u8.onrender.com/channel/alkass-3?m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3h4XCtZ/kasqatar.png",AL KASS QATAR 4
-https://alkass-to-m3u8.onrender.com/channel/alkass-4?m3u8
+https://guard.sekobes.workers.dev/?url=https://alkass-to-m3u8.onrender.com/channel/alkass-4?m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3h4XCtZ/kasqatar.png",AL KASS QATAR 5
 https://storage.googleapis.com/livealkass-eu/alkass5-p/main.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3h4XCtZ/kasqatar.png",AL KASS QATAR 6
