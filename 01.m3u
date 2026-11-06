@@ -1646,8 +1646,12 @@ http://live.duhnet.tv/S2/HLS_LIVE/taytvnp/playlist.m3u8
 http://duhnet.hipodrom.com/S2/HLS_LIVE/mislitaynp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://r.resimlink.com/1dOGS5D_iA4Z.png",YARIŞTAYIZ TV
 https://raw.githubusercontent.com/yaskar661-lgtm/termux-yt-canli/refs/heads/main/streams/yaristayiz_tv.m3u8
+#EXTINF:-1 tvg-logo="https://r.resimlink.com/1dOGS5D_iA4Z.png",YARIŞTAYIZ TV (backup)
+https://mutluapk.xyz/@yaristayiz.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/f-jhhxUz7qpLzdrw8IOW4vHgJJcB2UzPRgPzlCV2m936A1MmzmDdhBASltfKu0RnqRd4PO08IQ=s160-c-k-c0x00ffffff-no-rj",YARIŞTAYIZ TV YURT DIŞI
 https://raw.githubusercontent.com/yaskar661-lgtm/termux-yt-canli/refs/heads/main/streams/yaristayiz_tv_yurt_disi.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/f-jhhxUz7qpLzdrw8IOW4vHgJJcB2UzPRgPzlCV2m936A1MmzmDdhBASltfKu0RnqRd4PO08IQ=s160-c-k-c0x00ffffff-no-rj",YARIŞTAYIZ TV YURT DIŞI
+https://mutluapk.xyz/@yaristayiz2.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8g20RBH/ebatek.png",TRT EBA TV
 https://tv-e-okul01.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/R2Zgy7F/minikago.png",MİNİKA GO (sometimes)
