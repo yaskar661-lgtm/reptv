@@ -2953,7 +2953,7 @@ https://d1yd8hohnldm33.cloudfront.net/out/v1/19dee23c2cc24f689bd4e1288661ee0c/in
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9sX793L/13reality.jpg",RESHET REALITY
 https://d2dffl3588mvfk.cloudfront.net/out/v1/d8e15050ca4148aab0ee387a5e2eb46b/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HDCCBfT1/frtvmako.png" user-agent="SmartOsTV",FREETV FOOD
-https://keshet-channel-freetv-m3u8.onrender.com/isr/food.m3u8
+https://keshet-channel-freetv-index.onrender.com/isr/food.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HDCCBfT1/frtvmako.png" user-agent="SmartOsTV",FREETV FOOD
 https://raw.githubusercontent.com/pinkisso/mored/refs/heads/main/res/isr2/food.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HDCCBfT1/frtvmako.png" user-agent="SmartOsTV",FREETV MUSIC
