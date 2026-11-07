@@ -1750,6 +1750,8 @@ http://exchange.cdnrdn.com:9090/TR/showturkhd-tr/index.m3u8?token=filbox_oztnvqm
 https://raw.githubusercontent.com/pinkisso/mored/refs/heads/main/res/26-2/estar.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Lg90xsB/eurostar22.png",EURO STAR
 http://exchange.cdnrdn.com:9090/TR/eurostarhd-tr/index.m3u8?token=filbox_oztnvqmfK83KS
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Lg90xsB/eurostar22.png",EURO STAR (backup)
+https://dygdigitalvideo-to-m3u8.onrender.com/canli/eurostar.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ardifyxmotion/iptv-kanal/main/kanal/logos/tv8inttr.png",TV8 INT
 http://exchange.cdnrdn.com:9090/TR/tv8int-tr/index.m3u8?token=filbox_oztnvqmfK83KS
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ardifyxmotion/iptv-kanal/main/kanal/logos/tv8inttr.png",TV8 INT
