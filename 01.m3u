@@ -1617,7 +1617,7 @@ https://yt.tecostream.xyz/live/beinsportshaber
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vk6S4xG/beinhab.png",BIS HABER (alt2)
 https://raw.githubusercontent.com/yaskar661-lgtm/termux-yt-canli/refs/heads/main/streams/bein_spor_haber.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vk6S4xG/beinhab.png",BIS HABER (alt3)
-https://palxlendimgaliba1010.mywire.org/proxy.php?url=http://45.88.139.156/yt1/bh.m3u8
+https://yt1-m3u8-redirect.onrender.com/yt1/bh.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Pv3Jx9rv/sifir.png",SIFIR TV (backoff)
 https://ahr7chck.rocketcdn.com/sifirtv.stream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3WmLjwG/trtspor22c.png",TRT SPOR [geo-blocked]
