@@ -2918,6 +2918,8 @@ https://keshet-channel-freetv-index.onrender.com/isr/k12.m3u8
 https://raw.githubusercontent.com/pinkisso/mored/refs/heads/main/res/isr2/k12.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5TQ4RM3/Keshet12.png" user-agent="SmartOsTV",KESHET 12 sub-cc קשת
 https://raw.githubusercontent.com/pinkisso/mored/refs/heads/main/res/isr2/k12cc.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5TQ4RM3/Keshet12.png" user-agent="SmartOsTV",KESHET 12 sub-cc קשת (backup)
+https://keshet-channel-freetv-index.onrender.com/isr2/k12cc.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MnSQCcr/R1322.jpg",RESHET 13 רשת
 https://d1zqtf09wb8nt5.cloudfront.net/livehls/oil/freetv/live/reshet_13_hevc/live.livx/playlist.m3u8?fmp4&renditions
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MnSQCcr/R1322.jpg",RESHET 13 sub-cc רשת
