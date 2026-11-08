@@ -3243,7 +3243,7 @@ https://hls.dabangasudan.org/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vm3481D/amman.png",AMMAN TV
 https://ammantv-live.ercdn.net/ammantvhd/ammantvhd.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/C2c1NJN/alraimedia.png",ALRAIMEDIA
-https://alrai-tv-m3u8-index.onrender.com/playlist.m3u8
+https://alrai-tv-m3u8-redirect.onrender.com/live/alraitv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0mtj39x/Mekameleen.png",MEKAMELEEN
 http://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kDhcymF/ifilm.png",IFILM AR
