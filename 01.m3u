@@ -1167,10 +1167,12 @@ https://tgrthaber-live.daioncdn.net/tgrthaber/tgrthaber.m3u8
 https://internettv.guventechnology.com/hls/ulusaltv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0MHPk8y/benguturk.png",BENGÜ TÜRK
 https://ensonhaber-live.ercdn.net/benguturk/benguturk.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/JqWCczW/cnnturk1.png",CNN TÜRK (backup)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JqWCczW/cnnturk1.png",CNN TÜRK
 http://exchange.cdnrdn.com:9090/TR/cnnturkhd-tr/index.m3u8?token=filbox_oztnvqmfK83KS
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JqWCczW/cnnturk1.png",CNN TÜRK
 https://raw.githubusercontent.com/yaskar661-lgtm/termux-yt-canli/refs/heads/main/streams/cnn_turk.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JqWCczW/cnnturk1.png",CNN TÜRK (backup)
+https://cnn.impresents.workers.dev/canli-yayin.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JqWCczW/cnnturk1.png",CNN TÜRK (backup)
 http://izlego.minikirppis-com.workers.dev/ID=427315396743dfe9212c50
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JqWCczW/cnnturk1.png",CNN TÜRK (backup)
@@ -1240,13 +1242,13 @@ https://edge1.socialsmart.tv/turkhaber/bant1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fGnRLnLM/yenicag.png",YENİÇAĞ TV
 https://live.euromediacenter.com/yenicagtv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MDuymaz/yedekhesap/refs/heads/master/kanallogolari/anews.png",A NEWS
-https://trn03.tulix.tv/gt-anews/index.m3u8?token=e0668d237d2c8a5007dd3ac645e9d3ce
+https://tv.sunarproje.com.tr/anews.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MDuymaz/yedekhesap/refs/heads/master/kanallogolari/anews.png",A NEWS (backup)
 http://exchange.cdnrdn.com:9090/TR/anewshd-tr/index.m3u8?token=filbox_oztnvqmfK83KS
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MDuymaz/yedekhesap/refs/heads/master/kanallogolari/anews.png",A NEWS (backup)
 https://raw.githubusercontent.com/yaskar661-lgtm/termux-yt-canli/refs/heads/main/streams/a_news.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/KwXzY6B/apara.png",A PARA
-https://raw.githubusercontent.com/yaskar661-lgtm/termux-yt-canli/refs/heads/main/streams/a_para.m3u8
+https://tv.sunarproje.com.tr/apara.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/KwXzY6B/apara.png",A PARA (backup)
 http://exchange.cdnrdn.com:9090/TR/aparahd-tr/index.m3u8?token=filbox_oztnvqmfK83KS
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BN9tk1q/tbmm22.png",TBMM TV
@@ -1456,13 +1458,17 @@ https://guard.sekobes.workers.dev/?url=https://trkvz-to-m3u8-index.onrender.com/
 #EXTINF:-1 tvg-logo="https://i.ibb.co/n1SCYqN/atv.png",ATV (backup)
 https://turkuaz.tecostream.xyz/atv?m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/n1SCYqN/atv.png",ATV (backup)
-https://trn03.tulix.tv/gt-atv-live/index.m3u8?token=e0668d237d2c8a5007dd3ac645e9d3ce
+https://tv.sunarproje.com.tr/atv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/n1SCYqN/atv.png",ATV (backup)
 https://raw.githubusercontent.com/pinkisso/mored/refs/heads/main/res/26-3/atv1.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/n1SCYqN/atv.png",ATV (backup)
 https://raw.githubusercontent.com/pinkisso/mored/refs/heads/main/res/26-3/atv2.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0DpKtzT/nowtvturk.png",NOW (backup)
 https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0DpKtzT/nowtvturk.png",NOW (backup)
+https://now-tv-m3u8.onrender.com/stream/nowtv.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0DpKtzT/nowtvturk.png",NOW (backup)
+https://now-tv-m3u8.onrender.com/stream/nowtvdai.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0DpKtzT/nowtvturk.png",NOW (backup)
 https://b.livev.xyz/fox/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0DpKtzT/nowtvturk.png",NOW (backup)
@@ -1659,9 +1665,9 @@ https://mutluapk.xyz/@yaristayiz2.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8g20RBH/ebatek.png",TRT EBA TV
 https://tv-e-okul01.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/R2Zgy7F/minikago.png",MİNİKA GO (backup)
-https://guard.sekobes.workers.dev/?url=https://trkvz-to-m3u8-index.onrender.com/stream/minikago
+https://tv.sunarproje.com.tr/minikago.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/L8ftBdN/minikacocuk.png",MİNİKA ÇOCUK (backup)
-https://guard.sekobes.workers.dev/?url=https://trkvz-to-m3u8-index.onrender.com/stream/minikagococuk
+https://tv.sunarproje.com.tr/minikagococuk.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/F0Tsz1v/htsportr.png",HT SPOR (backup)
 https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/ht-spor/ht-spor.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xSjB51j/aspor.png",A SPOR (backup)
