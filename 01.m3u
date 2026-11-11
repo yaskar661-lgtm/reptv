@@ -1273,6 +1273,8 @@ https://raw.githubusercontent.com/pinkisso/mored/refs/heads/main/res/26-3/koza3.
 http://exchange.cdnrdn.com:9090/TR/kozatv-tr/index.m3u8?token=filbox_oztnvqmfK83KS
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VP8pfs9/koza.jpg",KOZA (backup)
 https://yt1-m3u8-redirect.onrender.com/yt1/koza.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VP8pfs9/koza.jpg",KOZA (backup)
+https://live.artidijitalmedya.com/artidijital_kozatv/kozatv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wdwm0fn/haberturk.png",HABER TÜRK (backup)
 https://tv.ensonhaber.com/haberturk/haberturk.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wdwm0fn/haberturk.png",HABER TÜRK (backup)
