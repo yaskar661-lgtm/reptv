@@ -88,7 +88,7 @@ https://raw.githubusercontent.com/SebTV-prod/streams/refs/heads/main/ressources/
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VYKgLYPV/frinter.png",FRANCE INTER DIRECT (backup)
 https://raw.githubusercontent.com/SebTV-prod/streams/refs/heads/main/ressources/dm/py/hls/franceinter.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BPpZPBn/arte.png",ARTE FR (backup)
-https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L5/3264727f/d0a3cb71.isml/.m3u8
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/arte/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kckRLh5/bfm.png",BFM TV (backup)
 https://live-cdn-stream-euw1.bfmtv.bct.nextradiotv.com/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kckRLh5/bfm.png",BFM TV (backup)
@@ -216,7 +216,7 @@ https://algerian-tv-relay-2026.espiiem.chatgpt.site/api/french/tf1/tmc/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LNRd253/w9.png" drm="ClearKey", drmkey="e8ae44faa1e73658bfe725dec8204259:d90e4519b41352e2791370dfcc20406b",W9
 https://origin-m6web.live.6cloud.fr/out/v1/6play/6play-w9/cmaf_cenc00/dash-short-hd.mpd
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4VS27Jw/tfx.png",TFX
-https://raw.githubusercontent.com/mikekaprielian/rtnaodhor93n398/refs/heads/main/fr/videotfx.m3u8
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/tfx/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nzh88j8/6ter.png",6TER
 https://raw.githubusercontent.com/kadadevelopers/live-m3u8/refs/heads/main/fr/video6ter.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jvcLdXT/tfsf.png",TF1 SÉRIES FILMS
@@ -264,7 +264,7 @@ https://edge-cf-m6web.live.6cloud.fr/out/v1/6play/6play-m6/cmaf_cenc00_N3/dash-s
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BBpR1Wx/tf1.png",TF1 CH/SWISS
 https://gitlab.com/-/snippets/6000776/raw/main/f1t.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BBpR1Wx/tf1.png",TF1 WEB
-https://live-tf1-hls-ssai.cdn-0.diff.tf1.fr/ey.alelouiya/out/v1/2a5ef2a4ce4a41209e0a881074d15932/tf1-cmaf/index.m3u8
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/tf1/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BPpZPBn/arte.png",ARTE ↺30MN
 https://standby
 
