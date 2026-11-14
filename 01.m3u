@@ -6,7 +6,7 @@ https://hls-m015-live-aka-canalplus.akamaized.net/live/disk/cnews-clair-hd/hls-v
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Zfcrrr1/lci.png",LCI
 https://algerian-tv-relay-2026.espiiem.chatgpt.site/api/french/lci/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Zfcrrr1/lci.png",LCI (backup)
-https://lci1-m3u8-auto.onrender.com/playlist.m3u8
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/lci/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Zfcrrr1/lci.png",LCI TNT
 https://tvradiozap.eu/899
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Zfcrrr1/lci.png",LCI TNT (backup)
@@ -154,7 +154,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=10951
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XkLHrbC/frinfo2bl.png",FRANCE INFO: (backup)
 https://tvradiozap.eu/tools/ft-m3u8.php/franceinfo.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XkLHrbC/frinfo2bl.png",FRANCE INFO: (backup)
-https://raw.githubusercontent.com/BG47510/sniftv/refs/heads/main/a02/frinfo.m3u8
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/france_info/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XkLHrbC/frinfo2bl.png",FRANCE INFO: (backup)
 https://raw.githubusercontent.com/schumijo/iptv/refs/heads/main/playlists/francetv/franceinfo.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Mydd6sds/brutfr.png",BRUT. (backup)
@@ -210,7 +210,7 @@ https://5eb46ec-rbm-hilv-fsly.cdn.redbee.live/L6/8e2b4270/9fc956ca.isml/.mpd
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Sm9PtLR/cstar.png",CSTAR
 https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/canalplus/cstar-dm.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Sm9PtLR/cstar.png",CSTAR (backup)
-https://algerian-tv-relay-2026.espiiem.chatgpt.site/api/french/cstar/live.m3u8
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/cstar/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hKVyKj4/tmc.png",TMC
 https://algerian-tv-relay-2026.espiiem.chatgpt.site/api/french/tf1/tmc/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LNRd253/w9.png" drm="ClearKey", drmkey="e8ae44faa1e73658bfe725dec8204259:d90e4519b41352e2791370dfcc20406b",W9
@@ -220,7 +220,7 @@ https://raw.githubusercontent.com/mikekaprielian/rtnaodhor93n398/refs/heads/main
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nzh88j8/6ter.png",6TER
 https://raw.githubusercontent.com/kadadevelopers/live-m3u8/refs/heads/main/fr/video6ter.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jvcLdXT/tfsf.png",TF1 SÉRIES FILMS
-https://viamotionhsi.netplus.ch/live/eds/hd1/browser-HLS8/hd1.m3u8
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/tf1_series_films/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/420Bjqt/tv5europe.png",TV5MONDE EUROPE [geo-area]
 https://ott.tv5monde.com/Content/HLS/Live/channel(europe)/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/x8YnkQ2/tv5.png",TV5MONDE MOYEN-ORIENT [geo-area]
