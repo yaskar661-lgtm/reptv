@@ -2923,7 +2923,7 @@ https://r.il.cdn-redge.media/livehls/oil/kancdn-live/live/kan11_subs/live.livx/p
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5TQ4RM3/Keshet12.png" user-agent="SmartOsTV",KESHET 12 קשת
 http://stream.mcquack.net/294/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5TQ4RM3/Keshet12.png" user-agent="SmartOsTV",KESHET 12 קשת
-https://keshet-channel-freetv-index.onrender.com/isr/k12.m3u8
+https://raw.githubusercontent.com/pinkisso/mored/refs/heads/main/res/isr2/k12dvr.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5TQ4RM3/Keshet12.png" user-agent="SmartOsTV",KESHET 12 קשת
 https://raw.githubusercontent.com/pinkisso/mored/refs/heads/main/res/isr2/k12.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5TQ4RM3/Keshet12.png" user-agent="SmartOsTV",KESHET 12 sub-cc קשת
