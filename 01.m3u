@@ -654,7 +654,7 @@ https://483a1e90c18641c9a6d27becd41ad892.mediatailor.us-west-2.amazonaws.com/v1/
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XrCWVxLd/sonyonefr.png",SONY ONE SERIES THRILLER
 https://d1573iiyr4aa7c.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVQxdKbe_1ZqXQSO1DTVWBideJziS_5DlZvg&s",AB1
-https://mdw-cji.akamaized.net/ab1/hls/hdntl=exp=1790945245~acl=/*~data=hdntl~hmac=af2ff90b16aac0e8e0c1d4f3e11c6288f0b81e7a69b90e4be9eccefbb3e94471/mwab1.m3u8
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/ab1/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nqXrTYX1/lg1.png",LG 1
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=12782
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nqXrTYX1/lg1.png",LG 1 FILM
