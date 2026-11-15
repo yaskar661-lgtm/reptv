@@ -1148,9 +1148,9 @@ https://tv.ensonhaber.com/tv100/tv100.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/k58p7P2/hglobal.png",HABER GLOBAL
 https://ensonhaber-live.ercdn.net/haberglobal/haberglobal.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/B40rjP3/szc1.png" referer="https://turkcanli.tv",SÖZCÜ TV
-https://raw.githubusercontent.com/pinkisso/mored/refs/heads/main/res/26-3/szc1.m3u8
+https://yt1-m3u8-redirect.onrender.com/yt1/szctv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/B40rjP3/szc1.png",SÖZCÜ WEB
-https://raw.githubusercontent.com/pinkisso/mored/refs/heads/main/res/26-3/szc2.m3u8
+https://yt1-m3u8-redirect.onrender.com/sunarproje/szc.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Fq0ZvYG/meltemtvt.png",MELTEM
 http://vhxyrsly.rocketcdn.com/meltemtv/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Fq0ZvYG/meltemtvt.png",MELTEM'S
@@ -1343,6 +1343,10 @@ http://exchange.cdnrdn.com:9090/TR/szchd-tr/index.m3u8?token=filbox_oztnvqmfK83K
 https://yt.tecostream.xyz/live/sozcutelevizyonu?m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/B40rjP3/szc1.png",SÖZCÜ WEB (onlineup)
 https://raw.githubusercontent.com/pinkisso/mored/refs/heads/main/res/26-3/szc0.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/B40rjP3/szc1.png",SÖZCÜ WEB (onlineup)
+https://raw.githubusercontent.com/pinkisso/mored/refs/heads/main/res/26-3/szc1.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/B40rjP3/szc1.png",SÖZCÜ WEB (onlineup)
+https://raw.githubusercontent.com/pinkisso/mored/refs/heads/main/res/26-3/szc2.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/B40rjP3/szc1.png",SÖZCÜ WEB (onlineup)
 https://raw.githubusercontent.com/pinkisso/mored/refs/heads/main/res/26-3/szc3.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tXdf2YF/ulusal22.png",ULUSAL KANAL (backup)
