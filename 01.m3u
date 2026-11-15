@@ -1252,6 +1252,8 @@ http://exchange.cdnrdn.com:9090/TR/anewshd-tr/index.m3u8?token=filbox_oztnvqmfK8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MDuymaz/yedekhesap/refs/heads/master/kanallogolari/anews.png",A NEWS (backup)
 https://raw.githubusercontent.com/yaskar661-lgtm/termux-yt-canli/refs/heads/main/streams/a_news.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/KwXzY6B/apara.png",A PARA
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/apara/apara.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KwXzY6B/apara.png",A PARA (backup)
 https://tv.sunarproje.com.tr/apara.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/KwXzY6B/apara.png",A PARA (backup)
 http://exchange.cdnrdn.com:9090/TR/aparahd-tr/index.m3u8?token=filbox_oztnvqmfK83KS
