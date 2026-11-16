@@ -1571,9 +1571,9 @@ http://exchange.cdnrdn.com:9090/TR-N/TLC_HD-tr/index.m3u8?token=filbox_oztnvqmfK
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Z1vHy41/tlc.png",TLC TR (backup)
 http://46.32.176.50/tlcturk/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/sgmb4wiv.png",BEIN IZ
-http://463758a0.ucomist.net/iptv/ZEEDV4QP6HVZU3YXP49H3ECB/19078/index.m3u8
+https://vavoo-iptv-proxy.vavoo-iptv.workers.dev/play/1691223078
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/zty1f186.png",BEIN GURME
-http://463758a0.ucomist.net/iptv/ZEEDV4QP6HVZU3YXP49H3ECB/6804/index.m3u8
+https://vavoo-iptv-proxy.vavoo-iptv.workers.dev/play/3617035414
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kKB21USxEgVZCcJsgoXGh1qx1DQgSgfn6hz3r-1HDv9dI=s160-c-k-c0x00ffffff-no-rj",GÜLŞAH FİLM
 https://raw.githubusercontent.com/yaskar661-lgtm/termux-yt-canli/refs/heads/main/streams/kemal_sunal_filmleri.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_m_vVKzWpm_LEriWFQTewLrMlSp0Et6frUrXP7qagTrpGE=s160-c-k-c0x00ffffff-no-rj",ARZU FİLM
