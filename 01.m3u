@@ -2941,15 +2941,17 @@ https://raw.githubusercontent.com/pinkisso/mored/refs/heads/main/res/isr2/k12.m3
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5TQ4RM3/Keshet12.png" user-agent="SmartOsTV",KESHET 12 sub-cc קשת
 https://raw.githubusercontent.com/pinkisso/mored/refs/heads/main/res/isr2/k12cc.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5TQ4RM3/Keshet12.png" user-agent="SmartOsTV",KESHET 12 sub-cc קשת (backup)
-https://keshet-channel-freetv-index.onrender.com/isr2/k12cc.m3u8
+https://r.il.cdn-redge.media/livehls/oil/freetv/live/keshet_12_subs/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MnSQCcr/R1322.jpg",RESHET 13 רשת
-https://d1zqtf09wb8nt5.cloudfront.net/livehls/oil/freetv/live/reshet_13_hevc/live.livx/playlist.m3u8?fmp4&renditions
+https://r.il.cdn-redge.media/livehls/oil/freetv/live/reshet_13_hevc/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MnSQCcr/R1322.jpg",RESHET 13 sub-cc רשת
 https://d198ztbnlup2iq.cloudfront.net/out/v1/2d9050c90fb94df8b78d1d98306a1a65/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4g6BSYf/now14smgri.png",NOW 14 עכשיו
 https://ch14channel14.encoders.immergo.tv/app/2/streamPlaylist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4g6BSYf/now14smgri.png",NOW 14 עכשיו
 https://r.il.cdn-redge.media/livehls/oil/ch14/live/ch14/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4g6BSYf/now14smgri.png",NOW C14 עכשיו
+https://r.il.cdn-redge.media/livehls/oil/freetv/live/ch14_subs/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/j68q1Bp/i24.png",i24 NEWS HE 15 עברית
 https://i24newshebrew-cdn.encoders.immergo.tv/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fzZbGpt5/16isr.png",ARUTZ ערוץ 16
@@ -2994,6 +2996,12 @@ https://raw.githubusercontent.com/pinkisso/mored/refs/heads/main/res/isr2/drama.
 https://keshet-channel-freetv-index.onrender.com/isr/comedy.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HDCCBfT1/frtvmako.png" user-agent="SmartOsTV",FREETV COMEDY
 https://raw.githubusercontent.com/pinkisso/mored/refs/heads/main/res/isr2/comedy.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HDCCBfT1/frtvmako.png" user-agent="SmartOsTV",FREETV KIDS
+https://r.il.cdn-redge.media/livehls/oil/freetv/live/kids_channel/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HDCCBfT1/frtvmako.png" user-agent="SmartOsTV",FREETV CLIPS
+https://r.il.cdn-redge.media/livehls/oil/freetv/live/music_il/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HDCCBfT1/frtvmako.png" user-agent="SmartOsTV",FREETV IL-MOVIE
+https://r.il.cdn-redge.media/livehls/oil/freetv/live/free_israeli_movies/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/d0WR3njy/keshet.png" user-agent="SmartOsTV",MAKO ERETZ
 https://keshet-channel-freetv-index.onrender.com/isr/erets.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/d0WR3njy/keshet.png" user-agent="SmartOsTV",MAKO ERETZ
